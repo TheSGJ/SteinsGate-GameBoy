@@ -1,5 +1,5 @@
 # Steins;Gate GameBoy
-
+- 🛠️ Currently in development.
 [Download the Steins Gate v0.2.0 Alpha Version](https://github.com/TheSGJ/SteinsGate-GameBoy/releases/download/v0.2.0-alpha/SteinsGate.gb)
 
 ### Running The Game:
